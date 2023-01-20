@@ -9,7 +9,7 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 ### Links
 
 - Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/singlepage-design-portfolio-Oez_1CT5m3))
-- Live Site URL: [([https://your-live-site-url.com](https://schifferedson.github.io/Single-Page-Design-Portfolio/))]
+- Live Site URL: https://schifferedson.github.io/Single-Page-Design-Portfolio/
 
 ## My process
 
