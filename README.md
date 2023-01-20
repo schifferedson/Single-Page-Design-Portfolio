@@ -4,7 +4,7 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### Screenshot
 
-![](./![image](https://user-images.githubusercontent.com/110434110/213701889-bc4d3eca-33f1-42e9-8dab-60661b59fc75.png))
+![](./assets/preview.png)
 
 ### Links
 
