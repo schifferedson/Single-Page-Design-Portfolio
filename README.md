@@ -8,7 +8,7 @@ This is a solution to the [Single Page Design Portfolio](https://www.frontendmen
 
 ### Links
 
-- Solution URL: https://your-solution-url.com](https://www.frontendmentor.io/solutions/singlepage-design-portfolio-Oez_1CT5m3
+- Solution URL: https://www.frontendmentor.io/solutions/singlepage-design-portfolio-Oez_1CT5m3
 - Live Site URL: https://schifferedson.github.io/Single-Page-Design-Portfolio/
 
 ## My process
