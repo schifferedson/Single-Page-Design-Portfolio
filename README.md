@@ -1,4 +1,4 @@
-# Frontend Mentor - Easybank landing page solution
+# Frontend Mentor - Single Page Design Portfolio
 
 This is a solution to the [Single Page Design Portfolio](https://www.frontendmentor.io/challenges/singlepage-design-portfolio-2MMhyhfKVo). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
