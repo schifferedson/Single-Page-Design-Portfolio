@@ -24,14 +24,6 @@ This is a solution to the [Single Page Design Portfolio](https://www.frontendmen
 
 I learned how to use the css root to store colors and not repeat them in the code, in addition to practicing javascript in an attempt to create a slide. It wasn't very good but it's progress in my learning. 😁
 
-
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 ## Author
 
 - Frontend Mentor - [@schifferedson]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/schifferedson))
