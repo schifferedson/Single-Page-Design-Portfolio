@@ -501,14 +501,16 @@ table {
     background-color: var(--galactic-blue);
 }
 
+@media (max-width: 1280px) {
+    .container {
+        padding: 0 20px;
+    }
+}
+
 @media (max-width: 960px) {
     .grid-designs {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(3, 182px);
-    }
-
-    .container {
-        padding: 0 20px;
     }
 
     .myApresentation h2 {
